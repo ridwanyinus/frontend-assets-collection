@@ -23,7 +23,25 @@ A curated collection of **free and categorized resources** for frontend develope
 
 Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file to learn how to suggest new links or improve the existing ones.
 
-Pull requests are welcome !
+Pull requests are welcome!
 
 ---
+
+## 👥 Contributors
+
+Thanks to everyone who contributes to this repository 💜
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Apouuuuuuu">
+        <img src="https://avatars.githubusercontent.com/Apouuuuuuu" width="80px;" alt="Apouuuuuuu"/>
+        <br />
+        <sub><b>Apouuuuuuu</b></sub>
+      </a>
+      <br />
+      🛠️ Built • ✏️ Wrote
+    </td>
+  </tr>
+</table>
 
