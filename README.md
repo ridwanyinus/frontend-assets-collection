@@ -1,6 +1,12 @@
 # 📸✨ Free Stock Images & Background Tools
 
-A curated list of free resources for frontend developers: stock photos, illustrations, textures, SVG patterns, and background generators.
+A curated and categorized list of free resources for frontend developers and designers:  
+stock photos, illustrations, textures, SVG patterns, and background generators — all free to use.
+
+You’ll find organized sections for general stock imagery, niche content like food or vintage photos, and tools for generating modern, animated, or subtle backgrounds.
+
+## 🤝 Want to contribute?  
+Check out the [CONTRIBUTING](./CONTRIBUTING.md) file for how to suggest new links or improve the list!
 
 ---
 
