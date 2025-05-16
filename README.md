@@ -42,6 +42,15 @@ Thanks to everyone who contributes to this repository 💜
       <br />
       🛠️ Built • ✏️ Wrote
     </td>
+    <td align="center">
+      <a href="https://github.com/ridwanyinus">
+        <img src="https://avatars.githubusercontent.com/ridwanyinus" width="80px;" alt="ridwanyinus"/>
+        <br />
+        <sub><b>ridwanyinus</b></sub>
+      </a>
+      <br />
+      ✏️ Wrote
+    </td>
   </tr>
 </table>
 
