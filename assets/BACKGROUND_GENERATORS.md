@@ -27,75 +27,75 @@ Check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file to learn how to suggest
 
 ### 🌀 Dynamic / Interactive Backgrounds (WebGL, Particles, Animations)
 
-- [**particles.js**](https://vincentgarreau.com/particles.js/)  
+- [**particles.js**](https://particles.js.org/)
   ➤ Animated and interactive particle system in JavaScript (canvas-based).
 
-- [**vanta.js**](https://www.vantajs.com/)  
+- [**vanta.js**](https://www.vantajs.com/)
   ➤ WebGL-powered animated backgrounds (fog, waves, birds, etc.).
 
-- [**css-doodle**](https://css-doodle.com/)  
+- [**css-doodle**](https://css-doodle.com/)
   ➤ Pure CSS art generator for creative, random patterns and effects.
 
 ---
 
 ### 🎨 SVG Shape & Gradient Generators
 
-- [**coolbackgrounds**](https://coolbackgrounds.io/)  
+- [**coolbackgrounds**](https://coolbackgrounds.io/)
   ➤ Mixed background generator: gradients, Unsplash images, blobs, triangles.
 
-- [**haikei**](https://haikei.app/)  
+- [**haikei**](https://haikei.app/)
   ➤ All-in-one SVG generator (blobs, waves, mesh gradients, layered shapes).
 
-- [**blobmaker**](https://www.blobmaker.app/)  
+- [**blobmaker**](https://www.blobmaker.app/)
   ➤ Custom SVG blob generator for abstract shapes.
 
-- [**getwaves**](https://getwaves.io/)  
+- [**getwaves**](https://getwaves.io/)
   ➤ Wave-shaped SVG generator for headers, dividers, or sections.
 
-- [**colorffy – Mesh Gradient Generator**](https://colorffy.com/mesh-gradient-generator)  
+- [**colorffy – Mesh Gradient Generator**](https://colorffy.com/mesh-gradient-generator)
   ➤ Mesh gradient generator for soft, colorful backgrounds (SVG output).
 
 ---
 
 ### 🧮 Geometric / Math-Based Backgrounds
 
-- [**trianglify.io**](https://trianglify.io/)  
+- [**trianglify.io**](https://trianglify.io/)
   ➤ Procedural triangle-pattern background generator in SVG.
 
 ---
 
 ### 🧩 Repeating SVG Patterns
 
-- [**heropatterns**](https://heropatterns.com/)  
+- [**heropatterns**](https://heropatterns.com/)
   ➤ Simple SVG patterns with customizable colors and opacity.
 
-- [**svgbackgrounds**](https://www.svgbackgrounds.com/)  
+- [**svgbackgrounds**](https://www.svgbackgrounds.com/)
   ➤ Premium/free SVG backgrounds with modern designs.
 
-- [**pattern.monster**](https://pattern.monster/)  
+- [**pattern.monster**](https://pattern.monster/)
   ➤ Customizable repeating SVG patterns (color, size, etc.).
 
-- [**patternico**](https://patternico.com/)  
+- [**patternico**](https://patternico.com/)
   ➤ Icon-based SVG pattern maker.
 
-- [**patternico (emoji)**](https://patternico.com/emoji/)  
+- [**patternico (emoji)**](https://patternico.com/emoji/)
   ➤ Emoji-based SVG pattern maker.
 
-- [**patternpad**](https://patternpad.com/)  
+- [**patternpad**](https://patternpad.com/)
   ➤ Live-editable pattern generator with SVG export.
 
 ---
 
 ### 🖌️ Subtle / Texture-Based Backgrounds
 
-- [**MagicPattern – CSS Backgrounds**](https://www.magicpattern.design/tools/css-backgrounds)  
+- [**MagicPattern – CSS Backgrounds**](https://www.magicpattern.design/tools/css-backgrounds)
   ➤ Gradient, blur, and wavy CSS background generator.
 
-- [**DinPattern**](https://dinpattern.com/)  
+- [**DinPattern**](https://dinpattern.com/)
   ➤ Artistic high-resolution patterns (PNG or CSS).
 
-- [**Transparent Textures**](https://www.transparenttextures.com/)  
+- [**Transparent Textures**](https://www.transparenttextures.com/)
   ➤ PNG-based textures with transparency to layer over backgrounds.
 
-- [**Toptal Subtle Patterns**](https://www.toptal.com/designers/subtlepatterns/)  
+- [**Toptal Subtle Patterns**](https://www.toptal.com/designers/subtlepatterns/)
   ➤ Collection of subtle repeating bitmap patterns.
