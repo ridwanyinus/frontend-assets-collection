@@ -28,6 +28,10 @@ A curated collection of **free and categorized resources** for frontend develope
   - [🖌️ Subtle / Texture-Based Backgrounds](#subtle--texture-based-backgrounds)
 - [📖 Useful Libraries](#useful-libraries)
   - [📚 Large Libraries](#large-libraries)
+  - [🧱 3D Models](#3d-models)
+  - [🎨 Color Tools](#color-tools)
+  - [🧿 Icon Libraries](#icon-libraries)
+  - [🔘 Call to Actions (CTA)](#call-to-actions-cta)
 - [🤝 Want to contribute?](#want-to-contribute)
 - [👥 Contributors](#contributors)
 
@@ -143,12 +147,23 @@ A curated and categorized list of **free stock photo and illustration sources**,
 <a name="useful-libraries"></a>
 ## 📖 Useful Libraries
 
-<a name="large-libraries"></a>
 ### 📚 Large Libraries
 - [**Uiverse**](https://uiverse.io/) – Copy-paste UI elements with CSS/HTML  
 - [**Tailwind UI**](https://tailwindui.com/) – Premium components for Tailwind CSS  
 - [**DaisyUI**](https://daisyui.com/) – Tailwind CSS component library  
 - [**Flowbite**](https://flowbite.com/) – Tailwind CSS UI component set
+
+### 🧱 3D Models
+- [**Sketchfab**](https://sketchfab.com/) – Large repository of 3D models for web, AR, and VR projects
+
+### 🎨 Color Tools
+- [**Radix Colors Custom**](https://www.radix-ui.com/colors/custom) – Tool to preview and customize color combinations with accessibility in mind
+
+### 🧿 Icon Libraries
+- [**Animated Icons Library**](https://icons.pqoqubbw.dev/) – Free library of animated icons ready to use with React/Vue/SVG
+
+### 🔘 Call to Actions (CTA)
+- [**CTA Gallery**](https://www.cta.gallery/) – Beautiful gallery of creative call-to-action button designs for inspiration
 
 ---
 
