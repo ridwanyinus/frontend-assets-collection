@@ -26,6 +26,7 @@ A curated collection of **free and categorized resources** for frontend develope
   - [🧮 Geometric / Math-Based Backgrounds](#geometric--math-based-backgrounds)
   - [🧩 Repeating SVG Patterns](#repeating-svg-patterns)
   - [🖌️ Subtle / Texture-Based Backgrounds](#subtle--texture-based-backgrounds)
+  - [🖼️ Image Shape Generators](#image-shape-generators)
 - [📖 Useful Libraries](#useful-libraries)
   - [📚 Large Libraries](#large-libraries)
   - [🧱 3D Models](#3d-models)
@@ -141,6 +142,10 @@ A curated and categorized list of **free stock photo and illustration sources**,
 - [**DinPattern**](https://dinpattern.com/)  
 - [**Transparent Textures**](https://www.transparenttextures.com/)  
 - [**Toptal Subtle Patterns**](https://www.toptal.com/designers/subtlepatterns/)
+
+<a name="image-shape-generators"></a>
+### 🖼️ Image Shape Generators
+- [**Clippy – CSS Clip-Path Maker**](https://bennettfeely.com/clippy/)
 
 ---
 
